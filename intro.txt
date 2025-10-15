@@ -14,3 +14,10 @@ Kỹ năng:
 1. Làm việc nhóm
 2. Tư duy logic
 3. Giải quyết vấn đề
+
+Kế hoạch học tập:
+- Hoàn thành các môn học còn lại đúng tiến độ 
+- Nâng cao kỹ năng lập trình C# và ASP.NET Core.
+- Tham gia dự án nhóm để cải thiện kỹ năng teamwork
+- Học thêm về Cơ sở dữ liệu.
+- Thường xuyên đọc tài liệu và thực hành trên GitHub.
