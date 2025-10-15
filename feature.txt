@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống thông báo tự động
+1. Gửi email khi có sản phẩm hết hàng.
+2. Hiển thị thông báo trong dashboard.
+3. Cho phép bật tắt thông báo trong cài đặt.
+4. Ghi lại lịch sử thông báo.
+5. Kết hợp API để gửi qua điện thoại.
