@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi tên là Lâm Ngọc Như, sinh viên ngành Công Nghệ Thông Tin
+Tôi yêu thích công nghệ và luôn muốn học hỏi kỹ năng mới.
+Hiện tôi đang học môn Quản lý mã nguồn với Git.
+Tôi mong muôn trở thành chuyên viên giỏi trong lĩnh vực của mình.
+Tôi muốn kiếm nhiều tiền nhờ công việc này.
+
+Sở thích:
+1. Đọc sách
+2. Du lịch 
+3. Thể thao
+
+Kỹ năng:
+1. Làm việc nhóm
+2. Tư duy logic
+3. Giải quyết vấn đề
